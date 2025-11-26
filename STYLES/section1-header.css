@@ -1,0 +1,32 @@
+:root{
+    --color-letra: white; 
+    --color-fondo-section-1: #474747
+}
+.section-1-header {
+    display: flex;
+    justify-content: space-around;
+    gap: 350px;
+    background-color: var(--color-fondo-section-1);
+    color: var(--color-letra);
+    
+}
+
+.container-1-header {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+
+}
+
+.container-1-header ul {
+    display: flex;
+    justify-content:space-between;
+    gap: 10px;
+    list-style-type: none;
+}
+
+.li-instagram img {
+    width: 150%;
+    object-fit: cover;
+
+}
