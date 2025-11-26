@@ -1,0 +1,26 @@
+:root{
+    --color-letra: white; 
+    --color-fondo-section-1: #474747
+}
+.section-1-header {
+    display: flex;
+    justify-content: space-around;
+    background-color: var(--color-fondo-section-1);
+    color: var(--color-letra);
+    
+}
+
+.container-1-header {
+    display: flex;
+    align-items: center;
+    gap: .625rem;
+
+}
+
+.container-1-header nav{
+    display: flex;
+    flex-direction: row;
+    list-style-type: none;
+    gap: .625rem;
+
+}
