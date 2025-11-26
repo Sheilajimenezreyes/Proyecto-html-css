@@ -1,11 +1,8 @@
-:root{
-    --color-letra: white; 
-    --color-fondo-section-1: #474747
-}
+
 .section-1-header {
     display: flex;
     justify-content: space-around;
-    gap: 350px;
+    gap: 21.875rem;
     background-color: var(--color-fondo-section-1);
     color: var(--color-letra);
     
@@ -14,14 +11,14 @@
 .container-1-header {
     display: flex;
     align-items: center;
-    gap: 10px;
+    gap: .625rem;
 
 }
 
 .container-1-header ul {
     display: flex;
     justify-content:space-between;
-    gap: 10px;
+    gap: .625rem;
     list-style-type: none;
 }
 
