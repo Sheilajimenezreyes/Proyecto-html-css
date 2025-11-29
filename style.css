@@ -2,10 +2,13 @@
 @import "./STYLES/section1-header.css";
 @import "./STYLES/section2-header.css";
 @import "./STYLES/section1-main.css";
+@import "./STYLES/section2-main.css";
 @import "./STYLES/variables.css";
+
 body, html{
     margin: 0;
     padding: 0;
     box-sizing: border-box;
     height: 100%;
 }
+
