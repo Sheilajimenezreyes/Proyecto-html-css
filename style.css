@@ -3,7 +3,9 @@
 @import "./STYLES/section2-header.css";
 @import "./STYLES/section1-main.css";
 @import "./STYLES/section2-main.css";
+@import "./STYLES/section3-main.css";
 @import "./STYLES/variables.css";
+
 
 body, html{
     margin: 0;
