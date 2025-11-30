@@ -17,7 +17,7 @@
 }
 .container-menus-main-2 div {
   background-color: var(--color-fondo-section-2);
-  padding: 1.25rem;
+  padding:2.0625rem;
   border-width: .0625rem;
   border-style: solid;
   border-color: var(--color-borde-menu);
@@ -40,6 +40,6 @@
   font-family: sans-serif;
 }
 .container-menus-main-2 p {
-  font-size: .8125rem;
+  font-size: 13px;
   font-family: sans-serif;
 }
