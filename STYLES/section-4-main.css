@@ -1,19 +1,24 @@
 .section-4-main {
-  max-width: 950px;
-  padding-left: 150px;
-  margin-top: 70px;
-  height: 100%;
+  display: flex;
+
+  justify-content: center;
 }
+
+.container-main-4 {
+  width: 70%;
+  margin-top: 70px;
+}
+
 .section-4-main h2 {
   font-size: 36px;
   font-weight: 480;
-  padding-left: 40px;
 }
 .section-4-main ul {
   display: flex;
-  align-items: center;
+  justify-content: flex-start;
+  align-items: flex-start;
   list-style: none;
-  gap: 7px;
+  padding: 0;
 }
 .section-4-main h3 {
   font-size: 13px;
