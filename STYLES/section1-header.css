@@ -1,30 +1,26 @@
-
 .section-1-header {
-    display: flex;
-    justify-content: space-around;
-    gap: 21.875rem;
-    background-color: var(--color-fondo-section-1);
-    color: var(--color-letra);
-    margin-bottom: 0px;
-    
+  display: flex;
+  justify-content: space-around;
+  gap: 21.875rem;
+  background-color: var(--color-fondo-section-1);
+  color: var(--color-letra);
+  margin-bottom: 0px;
 }
 
 .container-1-header {
-    display: flex;
-    align-items: center;
-    gap: .625rem;
-
+  display: flex;
+  align-items: center;
+  gap: 0.625rem;
 }
 
 .container-1-header ul {
-    display: flex;
-    justify-content:space-between;
-    gap: .625rem;
-    list-style-type: none;
+  display: flex;
+  justify-content: space-between;
+  gap: 0.625rem;
+  list-style-type: none;
 }
 
 .li-instagram img {
-    width: 150%;
-    object-fit: cover;
-
+  width: 150%;
+  object-fit: cover;
 }
