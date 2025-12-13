@@ -1,0 +1,14 @@
+.section-7-main{
+    border: 2px black solid;
+}
+.header-section--7-main{
+    border: 2px orange solid;
+    display: flex;
+    justify-content: space-between;
+}
+.articles-main-7{
+  border: 2px blueviolet solid; 
+  display: grid;
+  grid-template-columns: 2fr 1fr 1fr;
+  grid-auto-rows: 1fr auto;
+}
