@@ -7,7 +7,7 @@ main {
   align-items: center;
   justify-content: center;
   background-size: cover;
-  background-image: url("./comida.png");
+  background-image: url("../IMG/comida.png");
   background-repeat: no-repeat;
   background-position: center;
   width: 100%;

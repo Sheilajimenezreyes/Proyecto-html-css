@@ -1,0 +1,75 @@
+.section-8-main {
+  padding-bottom: 40px;
+}
+
+.first-div-section-8 {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 25px;
+}
+.section-8-main div h2 {
+  font-size: 40px;
+  font-weight: 500;
+}
+.article-8-main {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}
+.container-ingredients li {
+  list-style: none;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  height: 43px;
+  font-family: sans-serif;
+  font-size: 14px;
+}
+.container-ingredients h2,
+.text-secondary {
+  padding-left: 45px;
+}
+.container-ingredients button {
+  width: 2px;
+  height: 2px;
+  border-radius: 100%;
+  padding: 2%;
+  border-color: var(--color-fondo-boton);
+}
+.edition-button {
+  width: 15px;
+  height: 14px;
+  border: 1.9px black solid;
+  border-radius: 100%;
+  text-align: center;
+  padding-top: 2px;
+  font-size: 12px;
+  color: white;
+  background-color: var(--color-fondo-boton);
+  border-color: var(--color-fondo-boton);
+}
+.instructions {
+  text-align: justify;
+  font-family: sans-serif;
+  font-size: 14px;
+  line-height: 20px;
+  list-style: bold;
+  padding-right: 20px;
+}
+.instructions span {
+  font-weight: bold;
+}
+.instructions ol li::marker {
+  font-weight: bold;
+}
+.img-edition-1 {
+  margin-bottom: 45px;
+  margin-top: 30px;
+}
+.img-edition-2 {
+  margin-top: 45px;
+}
+.text-secondary {
+  font-weight: bold;
+}
