@@ -10,6 +10,7 @@
 @import "./STYLES/section-7-main.css";
 @import "./STYLES/section-8-main.css";
 @import "./STYLES/section-9-main.css";
+@import "./STYLES/footer.css";
 @import "./STYLES/variables.css";
 
 
@@ -19,5 +20,6 @@ body, html{
     padding: 0;
     box-sizing: border-box;
     height: 100%;
+    width: 100%;
 }
 

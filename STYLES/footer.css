@@ -1,0 +1,23 @@
+footer{
+    background-color: var(--color-fondo-section-1);
+    margin-top: 90px;
+}
+.logo-footer{
+    display: flex;
+}
+.logo-footer img{
+    width: 56px;
+    height: 55px;
+}
+.logo-footer p{
+    font-family: serif;
+    font-size: 32.67px;
+    font-weight: 600;
+    font-style: italic;
+    color: var(--color-letra-boton);
+}
+.text-below-logo{
+font-family: sans-serif;
+font-weight: 400;
+font-size: 16px;
+}
