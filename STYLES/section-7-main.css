@@ -1,7 +1,7 @@
 .section-7-main {
   background-color: var(--color-fondo-section-2);
-  padding-bottom: 40px;
-  padding-top: 20px;
+  padding-bottom: 3.75rem;
+  padding-top: 1.875rem;
 }
 .header-section-7-main {
   display: flex;
@@ -12,8 +12,8 @@
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
   grid-template-rows: auto auto;
-  height: 480px;
-  gap: 10px;
+  height: 30rem;
+  gap: .625rem;
   width: 65%;
   margin: 0 auto;
 }
@@ -24,62 +24,62 @@
   flex-direction: column;
   background-color: var(--color-letra);
   font-family: sans-serif;
-  font-size: 12px;
+  font-size: .75rem;
   font-weight: 200;
-  border-radius: 10px;
+  border-radius: .625rem;
 }
 .time-article-7 {
-  width: 150px;
+  width: 9.375rem;
   color: var(--color-fecha-articulos);
   font-family: sans-serif;
-  font-size: 10px;
-  padding-left: 13px;
-  margin-top: 10px;
+  font-size: .625rem;
+  padding-left: .8125rem;
+  margin-top: .625rem;
 }
 .article-secondary {
-  width: 200px;
+  width: 12.5rem;
   background-color: var(--color-letra);
   font-family: sans-serif;
-  font-size: 14px;
+  font-size: .875rem;
   font-weight: 500;
   color: var(--color-primer-texto);
-  border-radius: 10px;
+  border-radius: .625rem;
 }
 .article-secondary img {
   display: block;
   width: 100%;
-  margin-bottom: 7px;
+  margin-bottom: .4375rem;
 }
 .header-section-7-main h2 {
-  font-size: 30px;
+  font-size: 1.875rem;
   font-weight: 400;
 }
 .header-section-7-main button {
   font-family: sans-serif;
-  font-size: 10px;
-  height: 20px;
+  font-size: .625rem;
+  height: 1.25rem;
   color: var(--color-letra-boton);
   background-color: var(--color-fondo-boton);
   border: none;
 }
 .first-text {
-  height: 25px;
+  height: 1.5625rem;
   font-weight: 500;
-  font-size: 18px;
+  font-size: 1.125rem;
   color: var(--color-primer-texto);
-  padding-left: 13px;
+  padding-left: .8125rem;
 }
 .second-text {
   color: var(--color-letra-main3);
-  padding-left: 13px;
-  font-size: 13px;
+  padding-left: .8125rem;
+  font-size: .8125rem;
 }
 
 .burguer-img {
-  padding-bottom: 4px;
+  padding-bottom: .25rem;
 }
 .article-secondary p{
-  padding-left: 10px;
+  padding-left: .625rem;
   position: relative;
-  bottom: 5px;
+  bottom: .3125rem;
 }

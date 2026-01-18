@@ -6,6 +6,7 @@
   padding: 1.875rem;
   padding-left: 4.375rem;
   padding-right: 4.375rem;
+  padding-bottom: 3.75rem;
 }
 
 .container-menus-main-2 {
@@ -40,6 +41,6 @@
   font-family: sans-serif;
 }
 .container-menus-main-2 p {
-  font-size: 13px;
+  font-size: .8125rem;
   font-family: sans-serif;
 }

@@ -4,7 +4,7 @@
   gap: 21.875rem;
   background-color: var(--color-fondo-section-1);
   color: var(--color-letra);
-  margin-bottom: 0px;
+  margin-bottom: 0rem;
 }
 
 .container-1-header {
@@ -17,7 +17,7 @@
   display: flex;
   justify-content: space-between;
   align-items: center;
-  gap: 5px;
+  gap: .3125rem;
   list-style-type: none;
 }
 
@@ -25,5 +25,5 @@
   object-fit: cover;
 }
 .img-twitter {
-  padding-right: 9px;
+  padding-right: .5625rem;
 }
