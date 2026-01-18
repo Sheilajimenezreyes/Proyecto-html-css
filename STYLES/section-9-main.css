@@ -2,7 +2,6 @@
   display: flex;
   flex-direction: column;
   gap: 7px;
-
 }
 
 .header-section-9 {
@@ -27,8 +26,8 @@
   box-shadow: 0 8px 12px #f6f6f6;
   padding-bottom: 8px;
 }
-.container-articles-section-9 article time,
-p {
+.container-articles-section-9 .article-9-main time,
+.article-9-main-p {
   padding-left: 10px;
 }
 .container-articles-section-9 article time {

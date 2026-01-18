@@ -34,26 +34,20 @@
   appearance: none;
   width: 18px;
   height: 18px;
-  border: 2px solid red;
+  border: 2px solid var(--color-fondo-boton);
   border-radius: 10px;
   cursor: pointer;
 }
 
 .container-ingredients input:checked {
-  background-color: red;
-  border-color: red;
-}
-.edition-button {
-  width: 15px;
-  height: 14px;
-  border: 1.9px black solid;
-  border-radius: 100%;
-  text-align: center;
-  padding-top: 2px;
-  font-size: 12px;
-  color: white;
   background-color: var(--color-fondo-boton);
   border-color: var(--color-fondo-boton);
+}
+.container-ingredients label {
+  cursor: pointer;
+}
+.container-ingredients label:hover {
+  border-bottom: 1px solid black;
 }
 .instructions {
   text-align: justify;

@@ -24,7 +24,8 @@
   flex-direction: column;
   background-color: var(--color-letra);
   font-family: sans-serif;
-  font-size: 14px;
+  font-size: 12px;
+  font-weight: 200;
   border-radius: 10px;
 }
 .time-article-7 {
@@ -39,7 +40,7 @@
   width: 200px;
   background-color: var(--color-letra);
   font-family: sans-serif;
-  font-size: 15px;
+  font-size: 14px;
   font-weight: 500;
   color: var(--color-primer-texto);
   border-radius: 10px;

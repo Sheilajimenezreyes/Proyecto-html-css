@@ -16,11 +16,14 @@
 .container-1-header ul {
   display: flex;
   justify-content: space-between;
-  gap: 0.625rem;
+  align-items: center;
+  gap: 5px;
   list-style-type: none;
 }
 
 .li-instagram img {
-  width: 150%;
   object-fit: cover;
+}
+.img-twitter {
+  padding-right: 9px;
 }

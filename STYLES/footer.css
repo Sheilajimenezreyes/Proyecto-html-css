@@ -1,8 +1,11 @@
-footer {
+footer{
+background-color: var(--color-fondo-section-1);
+padding-bottom: 30px;
+}
+.footer {
   display: flex;
   justify-content: space-between;
   flex-wrap: wrap;
-  background-color: var(--color-fondo-section-1);
   margin-top: 90px;
   padding: 70px;
 }
@@ -30,7 +33,7 @@ footer {
 }
 .list-of-footer ul {
   list-style: none;
-  line-height: 35px;
+  line-height: 30px;
   font-family: sans-serif;
   font-size: 14px;
   font-weight: 400;
@@ -60,6 +63,7 @@ footer {
   display: grid;
   grid-template-columns: 1fr 1fr;
   gap: 10px;
+  margin-top: 5px;
 }
 .paragraph-size2 {
   grid-column: 1/3;

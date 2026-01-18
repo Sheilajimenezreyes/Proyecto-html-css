@@ -1,8 +1,4 @@
 .section-1-main {
-  height: 100%;
-  
-}
-.section-1-main {
   display: flex;
   align-items: center;
   justify-content: center;
@@ -11,7 +7,8 @@
   background-repeat: no-repeat;
   background-position: center;
   width: 100%;
-  height: 100%;
+  height: 100vh;
+
   text-align: center;
 }
 .fondo-del-main-1 {
@@ -19,6 +16,7 @@
   flex-direction: column;
   align-items: center;
   justify-content: center;
+  height: 60%;
 }
 .titulo-main-1 {
   font-weight: 400;
